@@ -37,7 +37,7 @@ Durante la creación del sitio web, se encontraron los siguientes desafíos:
 
 ---
 
-## 5. Conclusiones
+## 4. Conclusiones
 
 El proyecto permitió:
 
@@ -50,7 +50,7 @@ El sitio web cumple con todos los requisitos del proyecto, incluyendo la organiz
 
 ---
 
-## 6. Colaboradores
+## 5. Colaboradores
 
 - **Héctor Molgar** (colaborador en GitHub)
 
